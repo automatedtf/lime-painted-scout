@@ -1,0 +1,23 @@
+{
+  "name": "@automatedtf/lime-painted-scout",
+  "version": "0.0.1",
+  "description": "A module for generating 3-word-long phrases suitable for generating a unique identifier randomly or by hashing an input. These words are derived from the game Team Fortress 2, with the module heavily inspired by [`angry-purple-tiger`](https://github.com/helium/angry-purple-tiger).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automatedtf/lime-painted-scout.git"
+  },
+  "author": "Mengh.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/automatedtf/lime-painted-scout/issues"
+  },
+  "homepage": "https://github.com/automatedtf/lime-painted-scout#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
