@@ -1,6 +1,5 @@
 export default [
     
-
     // Classes
     "scout",
     "soldier",
@@ -29,7 +28,10 @@ export default [
     "wrench",
     "pistol",
     "medigun",
-
+    "ambassador",
+    "kunai",
+    "invisiwatch",
+    "quackenbirdt",
 
     // Maps
     "pier",

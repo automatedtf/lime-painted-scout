@@ -1,5 +1,6 @@
 export default [
-    // modifications
+
+    // Modifications
     "painted",
     "spelled",
     "parted",

@@ -1,9 +1,9 @@
 export default [
 
-    // paints
+    // Paints
     "lime",
 
-    // qualities
+    // Qualities
     "strange",
     "haunted",
     "decorated",
