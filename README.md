@@ -5,6 +5,7 @@
 - **Introduction**
 - **Usage**
 - **Composition**
+- **Examples**
 
 ## Introduction
 
@@ -38,3 +39,10 @@ A `noun` is a word from any of the following categories:
 - Classes
 - Weapons
 - Maps
+
+## Examples
+These are examples of strings that can be generated from the hashing function `tf2Hash`.
+- `lime-painted-scout`
+- `vintage-gifted-ravine`
+- `genuine-spelled-cauldron`
+- `selfmade-killstreaked-spy`
