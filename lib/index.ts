@@ -12,7 +12,7 @@ function hashCode(str: String) {
         hash |= 0; // Convert to 32bit integer
     }
 
-    return hash;
+    return Math.abs(hash);
 };
 
 export default function tf2Hash(input = `${Math.random()}`) {
