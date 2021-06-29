@@ -15,7 +15,7 @@ function hashCode(str: String) {
     return hash;
 };
 
-export default function tf2Hash(input) {
+export default function tf2Hash(input = `${Math.random()}`) {
     const hash = hashCode(input);
     const firstAdjective = firstAdjectives[hash % firstAdjectives.length];
     const secondAdjective = secondAdjectives[hash % secondAdjectives.length];
