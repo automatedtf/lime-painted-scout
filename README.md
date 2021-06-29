@@ -1,5 +1,4 @@
 # lime-painted-scout
-`Work in Progress`
 
 ### **Table of Contents**
 - **Introduction**
@@ -18,7 +17,9 @@ This module exports the function `tf2Hash: (input: string) => string`.
 ```
 import tf2Hash from "@automatedtf/lime-painted-scout";
 ...
-let hash = tf2Hash("sometext");
+let hash = tf2Hash("sometext"); // Hash of "sometext"
+...
+let randomHash = tf2Hash(); // A randomly generated hash
 ...
 ```
 
