@@ -31,16 +31,22 @@ A `firstAdjective` is a word from any of the following categories:
 - Paints (e.g `lime`, `muskelmannbraun`)
 - Qualities
 
+*[🔗 All possible 'first-adjectives'](https://github.com/automatedtf/lime-painted-scout/blob/master/lib/first-adjectives.ts)*
+
 ##### Second Adjective
 A `secondAdjective` is a word from any of the following categories:
 - Modifications (e.g `painted`, `spelled`)
 - Variations (e.g `australium`, `festive`)
+
+*[🔗 All possible 'second-adjectives'](https://github.com/automatedtf/lime-painted-scout/blob/master/lib/second-adjectives.ts)*
 
 ##### Noun
 A `noun` is a word from any of the following categories:
 - Classes
 - Weapons
 - Maps
+
+*[🔗 All possible 'nouns'](https://github.com/automatedtf/lime-painted-scout/blob/master/lib/nouns.ts)*
 
 ## Examples
 These are examples of strings that can be generated from the hashing function `tf2Hash`.
