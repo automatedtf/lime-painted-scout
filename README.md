@@ -28,7 +28,7 @@ All phrases are composed of the form `firstAdjective-secondAdjective-noun`.
 
 ##### First Adjective
 A `firstAdjective` is a word from any of the following categories:
-- Paints
+- Paints (e.g `lime`, `muskelmannbraun`)
 - Qualities
 
 ##### Second Adjective
