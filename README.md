@@ -33,7 +33,8 @@ A `firstAdjective` is a word from any of the following categories:
 
 ##### Second Adjective
 A `secondAdjective` is a word from any of the following categories:
-- Modifications
+- Modifications (e.g `painted`, `spelled`)
+- Variations (e.g `australium`, `festive`)
 
 ##### Noun
 A `noun` is a word from any of the following categories:

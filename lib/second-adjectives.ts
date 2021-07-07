@@ -6,4 +6,11 @@ export default [
     "parted",
     "killstreaked",
     "gifted",
+    "festivized",
+
+    // Variations
+    "festive",
+    "australium",
+    "botkiller",
+    "golden"
 ];
